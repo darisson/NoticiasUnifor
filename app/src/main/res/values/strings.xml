@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Noticias</string>
+    <string name="tab_text_1">GERAL</string>
+    <string name="tab_text_2">EVENTOS</string>
+    <string name="tab_text_3">ESPORTES</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="text_geral">GERAL</string>
+    <string name="text_eventos">EVENTOS</string>
+    <string name="text_esportes">ESPORTES</string>
+    <string name="titulo">Titulo</string>
+    <string name="data">Data</string>
+    <string name="tituloNoticia">Titulo</string>
+    <string name="dataNoticia">Data</string>
+    <string name="corpoNoticia">corpo</string>
+    <string name="err_message">Ocorreu um erro de rede.</string>
+    <string name="err_request">Falha na requisicao.</string>
+</resources>
